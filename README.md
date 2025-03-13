@@ -1,1 +1,1 @@
-# Spring Boot microservices with Kafka broker (2nd part)
+# Kafka with Spring Boot microservices (part 2)
